@@ -1,0 +1,41 @@
+.contentBody{
+    padding: 35px 40px;
+    height: 100%;
+    h1{
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .form-group label{
+        font-size: 15px;
+    }
+    .form-group .form-control{
+        height: 40px;
+    }
+    .form-group ul{
+        display: flex;
+        list-style: none;
+        justify-content: space-between;
+        margin: 0;
+        padding: 0;
+        a{
+            color: rgb(20, 167, 105);
+        }
+    }
+
+    .form-group .btn{
+        width: 295px;
+        height: 45px;
+        border-radius: 10px;
+    }
+    .form-group .btn-success{
+        background: rgb(20, 167, 105);
+    }
+    .barText{
+        margin-top: 190px;
+        margin-left: 70px;
+        a{
+            color: rgb(20, 167, 105);
+        }
+    }
+    
+}
